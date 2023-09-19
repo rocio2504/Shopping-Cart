@@ -10,13 +10,13 @@ const productos = {
   },
   producto2: {
     nombre: 'Hamburguesa',
-    precio: '10.00',
+    precio: '1100.00',
     descripcion: 'La mejor Hamburguesa del mercado, con productos finamente seleccionados, una presentación única y el mejor sabor.',
     srcImg: 'https://cocina-casera.com/wp-content/uploads/2016/11/hamburguesa-queso-receta.jpg'
   },
   producto3: {
     nombre: 'Pizza',
-    precio: '15.50',
+    precio: '1340.50',
     descripcion: 'Masa preparada en el local, fermentada el tiempo suficiente para que de una mordida puedas sentir una sensación única de sabor y textura.',
     srcImg: 'https://elgourmet.s3.amazonaws.com/recetas/share/pizza_Mh3H4eanyBKEsStv1YclPWTf9OUqIi.png'
   },
