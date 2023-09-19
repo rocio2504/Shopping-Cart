@@ -4,9 +4,9 @@
 const productos = {
   producto1: {
     nombre: 'Lap Top VivoBook',
-    precio: '3.50',
+    precio: '1299.50',
     descripcion: 'Laptop con pantalla táctil FHD de 15.6 pulgadas. Procesador Intel Core i7-1065G7, 20 GB de RAM, SSD de 1 TB, teclado retroiluminado, cámara web, WiFi, HDMI, Bluetooth, diseño compacto, batería de larga duración, Win 10.',
-    srcImg: './laptop1.jpg'
+    srcImg: './images/laptop1.jpg'
   },
   producto2: {
     nombre: 'Hamburguesa',
