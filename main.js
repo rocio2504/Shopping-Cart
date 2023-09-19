@@ -12,19 +12,19 @@ const productos = {
     nombre: 'Hamburguesa',
     precio: '1100.00',
     descripcion: 'La mejor Hamburguesa del mercado, con productos finamente seleccionados, una presentación única y el mejor sabor.',
-    srcImg: 'https://cocina-casera.com/wp-content/uploads/2016/11/hamburguesa-queso-receta.jpg'
+    srcImg: './images/laptop1.jpg'
   },
   producto3: {
     nombre: 'Pizza',
     precio: '1340.50',
     descripcion: 'Masa preparada en el local, fermentada el tiempo suficiente para que de una mordida puedas sentir una sensación única de sabor y textura.',
-    srcImg: 'https://elgourmet.s3.amazonaws.com/recetas/share/pizza_Mh3H4eanyBKEsStv1YclPWTf9OUqIi.png'
+    srcImg: './images/laptop1.jpg'
   },
   producto4: {
     nombre: 'Completo',
     precio: '8.50',
     descripcion: 'Estos son los mejores completos de la ciudad, hechos con el mejor pan y ingredientes finamente seleccionados.',
-    srcImg: 'https://i2.wp.com/golososdelmundo.com/wp-content/uploads/2018/08/completo-italiano3.jpg?fit=1024%2C683'
+    srcImg: './images/laptop1.jpg'
   }
 }
 // Se captura el template de los productos
