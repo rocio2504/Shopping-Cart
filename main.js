@@ -9,19 +9,19 @@ const productos = {
     srcImg: './images/laptop1.jpg'
   },
   producto2: {
-    nombre: 'Hamburguesa',
+    nombre: 'Laptop HP 15',
     precio: '1100.00',
     descripcion: 'La mejor Hamburguesa del mercado, con productos finamente seleccionados, una presentación única y el mejor sabor.',
     srcImg: './images/laptop1.jpg'
   },
   producto3: {
-    nombre: 'Pizza',
+    nombre: 'PLaptop HP 15',
     precio: '1340.50',
     descripcion: 'Masa preparada en el local, fermentada el tiempo suficiente para que de una mordida puedas sentir una sensación única de sabor y textura.',
     srcImg: './images/laptop1.jpg'
   },
   producto4: {
-    nombre: 'Completo',
+    nombre: 'CLaptop HP 15',
     precio: '8.50',
     descripcion: 'Estos son los mejores completos de la ciudad, hechos con el mejor pan y ingredientes finamente seleccionados.',
     srcImg: './images/laptop1.jpg'
